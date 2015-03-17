@@ -1,5 +1,5 @@
 {
-    "name": "phansys/getid3",
+    "name": "xun91/getid3",
     "description": "This release of GetId3 library updates to PSR-0 CS, add namespaces and makes it Symfony 2.x installable by deps or composer mechanisms.",
     "keywords": ["getid3", "tags", "metadata"],
     "type": "library",
